@@ -70,7 +70,7 @@ Numbers
 
 **Credit Card Validator** - Takes in a credit card number from a common credit card vendor (Visa, MasterCard, American Express, Discoverer) and validates it to make sure that it is a valid number (look into how credit cards use a checksum).
 
-~~**Tax Calculator** - Asks the user to enter a cost and either a country or state tax. It then returns the tax plus the total cost with tax.~~ [Completed]
+~~**Tax Calculator** - Asks the user to enter a cost and either a country or state tax. It then returns the tax plus the total cost with tax.~~ [COMPLETED]
 
 **Factorial Finder** - The Factorial of a positive integer, n, is defined as the product of the sequence n, n-1, n-2, ...1 and the factorial of zero, 0, is defined as being 1. Solve this using both loops and recursion.
 
@@ -130,7 +130,7 @@ Text
 
 ~~**Count Vowels** - Enter a string and the program counts the number of vowels in the text. For added complexity have it report a sum of each vowel found.~~ [COMPLETED]
 
-**Check if Palindrome** - Checks if the string entered by the user is a palindrome. That is that it reads the same forwards as backwards like “racecar”
+~~**Check if Palindrome** - Checks if the string entered by the user is a palindrome. That is that it reads the same forwards as backwards like “racecar”~~ [COMPLETED]
 
 ~~**Count Words in a String** - Counts the number of individual words in a string. For added complexity read these strings in from a text file and generate a summary.~~ [COMPLETED]
 
