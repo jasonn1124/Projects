@@ -55,7 +55,7 @@ while inputLoop == True:
 	# Information for users
 	cls()
 	print "Tax calculator - Main\n"
-	print "GST - {0:.2%} percent\nService charge - {1:.2%} percent\n".format(GST,SvcCharge)
+	print "GST - {0:.2%}\nService charge - {1:.2%}\n".format(GST,SvcCharge)
 	print "Input the cost directly, or type 'settings' to change the percentages.\n"
 	# Requests input and acts accordingly.
 	userInput = raw_input(">>> ")
